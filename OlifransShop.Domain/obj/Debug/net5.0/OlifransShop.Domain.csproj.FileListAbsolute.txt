@@ -1,0 +1,12 @@
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\bin\Debug\net5.0\OlifransShop.Domain.deps.json
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\bin\Debug\net5.0\OlifransShop.Domain.dll
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\bin\Debug\net5.0\ref\OlifransShop.Domain.dll
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\bin\Debug\net5.0\OlifransShop.Domain.pdb
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.csprojAssemblyReference.cache
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.AssemblyInfoInputs.cache
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.AssemblyInfo.cs
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.dll
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\ref\OlifransShop.Domain.dll
+C:\GitHub\Projetos_CSharp\OnlineOlifransShop\OlifransShop.Domain\obj\Debug\net5.0\OlifransShop.Domain.pdb
